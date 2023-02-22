@@ -9,3 +9,8 @@ print ("done")
 c=a-b
 print(c)
 print("monya")
+
+#code for addition
+#from sonya
+c=a+b
+print(c)
