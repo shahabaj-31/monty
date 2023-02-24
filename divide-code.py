@@ -14,3 +14,9 @@ print("monya")
 #from sonya
 c=a+b
 print(c)
+
+#code from M2
+#code for cube
+a=13
+b=a**3
+print (b)
