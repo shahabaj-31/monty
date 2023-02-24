@@ -14,3 +14,9 @@ print("monya")
 #from sonya
 c=a+b
 print(c)
+
+#code for square
+#code from M1
+a=33
+p=a**2
+print (p)
